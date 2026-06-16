@@ -1,0 +1,3600 @@
+fileFormatVersion: 2
+guid: 316d78046c152ed4ba089f9699028de3
+ModelImporter:
+  serializedVersion: 21202
+  internalIDToNameTable:
+  - first:
+      74: 7840081530918892206
+    second: Cube.014|Cube.155Action.002
+  - first:
+      74: -481246089677585060
+    second: Cube.014|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -6004451978268424771
+    second: Cube.014|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -6348868736483799136
+    second: Cube.014|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 6680458628514185251
+    second: Cube.014|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 4090854372840115174
+    second: Cube.014|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 1684389146964385238
+    second: Cube.014|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 3717504558696035145
+    second: Cube.014|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 2884321807542599244
+    second: Cube.014|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -7474764448423531367
+    second: Cube.014|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -8985236344830427626
+    second: Cube.014|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7122008398257139096
+    second: Cube.014|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -3056399232984811226
+    second: Cube.014|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -7711891555865386525
+    second: Cube.014|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -8349923295049139480
+    second: Cube.077|Cube.155Action.002
+  - first:
+      74: -3490839208484297671
+    second: Cube.077|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 6954779778984779278
+    second: Cube.077|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 7799201367872481770
+    second: Cube.077|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -6417271966158381559
+    second: Cube.077|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -1074904051821875774
+    second: Cube.077|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 4000283927996393951
+    second: Cube.077|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 6579210094361265951
+    second: Cube.077|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 2473048149835333750
+    second: Cube.077|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -705720318078342602
+    second: Cube.077|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -8446202709985341499
+    second: Cube.077|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 6913926463029957883
+    second: Cube.077|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4393374506176510571
+    second: Cube.077|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 2350953595917709536
+    second: Cube.077|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -8788043027434885413
+    second: Cube.154|Cube.155Action.002
+  - first:
+      74: -6769003832223389261
+    second: Cube.154|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -7238290171156818458
+    second: Cube.154|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 3500919161911601002
+    second: Cube.154|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -9054483847998098817
+    second: Cube.154|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -3297578802528847508
+    second: Cube.154|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 5660787132880689543
+    second: Cube.154|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 8213181115934277522
+    second: Cube.154|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 3360728305026175885
+    second: Cube.154|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -6490913463292322276
+    second: Cube.154|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -7265667075953739785
+    second: Cube.154|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -4044474054123470637
+    second: Cube.154|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 7141620509682637018
+    second: Cube.154|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -3576527288955800376
+    second: Cube.154|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -7729911654141913215
+    second: Plane.066|Cube.155Action.002
+  - first:
+      74: 3558165919019502070
+    second: Plane.066|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -6569763923645239302
+    second: Plane.066|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 4927283008391300246
+    second: Plane.066|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -7845322735166732278
+    second: Plane.066|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -9159205797016827837
+    second: Plane.066|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -3086212604956284939
+    second: Plane.066|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 4324137748662169966
+    second: Plane.066|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 7172725573718018990
+    second: Plane.066|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 7459654690956727524
+    second: Plane.066|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -5526167609191551547
+    second: Plane.066|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -2359409207075460876
+    second: Plane.066|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -1391039961315202647
+    second: Plane.066|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 6233675163554930057
+    second: Plane.066|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 9024454421705302948
+    second: Cube.124|Cube.155Action.002
+  - first:
+      74: 4575820321692372095
+    second: Cube.124|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -6422710682738398356
+    second: Cube.124|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -1191031601403818536
+    second: Cube.124|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 1836500319084942025
+    second: Cube.124|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 247105881869994710
+    second: Cube.124|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 457558912058843223
+    second: Cube.124|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 2015024909340135349
+    second: Cube.124|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -4197723791895891630
+    second: Cube.124|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 3453759332423700814
+    second: Cube.124|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 427120821404202008
+    second: Cube.124|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 1087300854634365841
+    second: Cube.124|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4972036930211651160
+    second: Cube.124|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 6268756452132561495
+    second: Cube.124|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -6312967069107675034
+    second: Cube.125|Cube.155Action.002
+  - first:
+      74: -3392507636000932970
+    second: Cube.125|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 8888449622776720520
+    second: Cube.125|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 3567637789538539366
+    second: Cube.125|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 2892348073176545048
+    second: Cube.125|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 8904583427813890384
+    second: Cube.125|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -6399185195430305992
+    second: Cube.125|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 1016919266549939427
+    second: Cube.125|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -6915961729336891287
+    second: Cube.125|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -4238057303180748822
+    second: Cube.125|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 866667495464331920
+    second: Cube.125|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 250131479254647799
+    second: Cube.125|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 1551603629601335084
+    second: Cube.125|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 8059165199517020714
+    second: Cube.125|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 2233162058843655170
+    second: Cube.126|Cube.155Action.002
+  - first:
+      74: -7561306188715241096
+    second: Cube.126|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -54282845422814352
+    second: Cube.126|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 7500763584167241303
+    second: Cube.126|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 8268299384915279213
+    second: Cube.126|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 1370883547370537849
+    second: Cube.126|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 8777532678006179616
+    second: Cube.126|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 4501835812100406995
+    second: Cube.126|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -3264689365970187616
+    second: Cube.126|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 5315979835575532571
+    second: Cube.126|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 7895263452489848303
+    second: Cube.126|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 2153284931582739213
+    second: Cube.126|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 5966301318214096541
+    second: Cube.126|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -4438510387835331529
+    second: Cube.126|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -3199628950583853938
+    second: Cube.127|Cube.155Action.002
+  - first:
+      74: 4153119343579657303
+    second: Cube.127|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 2720434950418685848
+    second: Cube.127|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 2859578957189057384
+    second: Cube.127|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -6699913486069825001
+    second: Cube.127|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -1654332952950741823
+    second: Cube.127|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -6226811501201731922
+    second: Cube.127|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 4491800164247490265
+    second: Cube.127|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -3512014403708859287
+    second: Cube.127|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -2026756720391093783
+    second: Cube.127|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -343165252632824109
+    second: Cube.127|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -1514111033543843101
+    second: Cube.127|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -5963083670901903954
+    second: Cube.127|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -5940204546102860505
+    second: Cube.127|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -2594177594616174206
+    second: Cube.128|Cube.155Action.002
+  - first:
+      74: -6509346829966635897
+    second: Cube.128|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 716349622761281373
+    second: Cube.128|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -1233780704685557639
+    second: Cube.128|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 7762521140854413813
+    second: Cube.128|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 1794372823836572339
+    second: Cube.128|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -6260428186098956737
+    second: Cube.128|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 6785507977952009119
+    second: Cube.128|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -5947189752017947993
+    second: Cube.128|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 6194344612562907372
+    second: Cube.128|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 7259716244996166061
+    second: Cube.128|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -5440773500395579057
+    second: Cube.128|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 8311799124751024198
+    second: Cube.128|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -4335340248723122746
+    second: Cube.128|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -7216147591253509301
+    second: Cube.129|Cube.155Action.002
+  - first:
+      74: 5677275099782778475
+    second: Cube.129|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -4243497568484550717
+    second: Cube.129|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -1424050077163379937
+    second: Cube.129|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -7723426670918993954
+    second: Cube.129|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 1108237829134377874
+    second: Cube.129|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -7621396164997852733
+    second: Cube.129|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 8386026641027084034
+    second: Cube.129|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -6309838393369414585
+    second: Cube.129|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 6175565788507546935
+    second: Cube.129|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 1739321849653370008
+    second: Cube.129|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 5702426623453204795
+    second: Cube.129|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4508268496992788287
+    second: Cube.129|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 7520740739372793476
+    second: Cube.129|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 4973639821338395052
+    second: Cube.130|Cube.155Action.002
+  - first:
+      74: 8478029570543987123
+    second: Cube.130|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 3368559163808219915
+    second: Cube.130|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -4991556012527712227
+    second: Cube.130|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -343001693493716008
+    second: Cube.130|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -3403099365067184064
+    second: Cube.130|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -8995701691711158464
+    second: Cube.130|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -8716343348958733123
+    second: Cube.130|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 5248290276620686992
+    second: Cube.130|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -4394180217313882752
+    second: Cube.130|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 3224143855659819915
+    second: Cube.130|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7785085640603088699
+    second: Cube.130|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -9165497558653892621
+    second: Cube.130|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -5754170491732435389
+    second: Cube.130|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 6412405744015217818
+    second: Cube.131|Cube.155Action.002
+  - first:
+      74: -6225199071086364142
+    second: Cube.131|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -2763401381580509178
+    second: Cube.131|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 2147662421739455122
+    second: Cube.131|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 2427087303366571000
+    second: Cube.131|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7082817810715390416
+    second: Cube.131|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -7984588198579249833
+    second: Cube.131|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 3342104487728478456
+    second: Cube.131|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -6730634599964495749
+    second: Cube.131|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 6286746229070282510
+    second: Cube.131|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 1561661099254303492
+    second: Cube.131|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 8409646236629431011
+    second: Cube.131|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 2337639338585913205
+    second: Cube.131|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -6412642634350563227
+    second: Cube.131|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 371083025745728121
+    second: Cube.132|Cube.155Action.002
+  - first:
+      74: -2092904583885533009
+    second: Cube.132|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 2710699746732443296
+    second: Cube.132|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -4618257276078672934
+    second: Cube.132|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 2049964301990554650
+    second: Cube.132|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 5957013898276033299
+    second: Cube.132|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -1861245179420502806
+    second: Cube.132|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -1250073334910067047
+    second: Cube.132|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 69944730857006661
+    second: Cube.132|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 8743502664982798006
+    second: Cube.132|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 5205502141957213516
+    second: Cube.132|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7661538267381003425
+    second: Cube.132|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 5938050030982583530
+    second: Cube.132|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 7697390294322685039
+    second: Cube.132|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 3918075979192800768
+    second: Cube.134|Cube.155Action.002
+  - first:
+      74: -3684643757749248267
+    second: Cube.134|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -384307008607010616
+    second: Cube.134|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 8995495213507317689
+    second: Cube.134|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 3635075463470905718
+    second: Cube.134|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -7189667072413017769
+    second: Cube.134|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 2447199115510532863
+    second: Cube.134|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -4522265757658770432
+    second: Cube.134|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -2251334589205153275
+    second: Cube.134|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 5928818886805665631
+    second: Cube.134|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -1278342541249946780
+    second: Cube.134|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -6797164122297209941
+    second: Cube.134|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -5826000696473477437
+    second: Cube.134|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 318249477642999320
+    second: Cube.134|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -4963655145480666142
+    second: Cube.135|Cube.155Action.002
+  - first:
+      74: -775132866145447654
+    second: Cube.135|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -38298488886770976
+    second: Cube.135|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 4148568259575991766
+    second: Cube.135|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -5621070498204274871
+    second: Cube.135|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -2703229247678025624
+    second: Cube.135|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -1572082566346239411
+    second: Cube.135|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -2797653959149332547
+    second: Cube.135|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 6315057618599907618
+    second: Cube.135|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -612460830118688008
+    second: Cube.135|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -3890725998260235446
+    second: Cube.135|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -8630865725225549743
+    second: Cube.135|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4246951540235093391
+    second: Cube.135|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 2439332648692423237
+    second: Cube.135|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 506804600534593408
+    second: Cube.136|Cube.155Action.002
+  - first:
+      74: -4833994703550866906
+    second: Cube.136|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 5807709635496136427
+    second: Cube.136|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 59023502699529339
+    second: Cube.136|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -2731115006420638932
+    second: Cube.136|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -3164147539166876071
+    second: Cube.136|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 6621777224849009025
+    second: Cube.136|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -8903182614966810519
+    second: Cube.136|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 2191336343688075897
+    second: Cube.136|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -716984247125979592
+    second: Cube.136|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 2253212702201670687
+    second: Cube.136|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7366817509964098682
+    second: Cube.136|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 4288917533140514521
+    second: Cube.136|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -602038367078323659
+    second: Cube.136|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 2815147426094003991
+    second: Cube.137|Cube.155Action.002
+  - first:
+      74: 4882632234594690184
+    second: Cube.137|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 267662483551454835
+    second: Cube.137|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -3502275762269834857
+    second: Cube.137|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -804097470565053814
+    second: Cube.137|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 2751160810126073242
+    second: Cube.137|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 5806157491742222570
+    second: Cube.137|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 2099593411364936621
+    second: Cube.137|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -6041093788529816233
+    second: Cube.137|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 5445976060356629041
+    second: Cube.137|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 412148589093829655
+    second: Cube.137|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -2726381362812815398
+    second: Cube.137|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 8490366559617865355
+    second: Cube.137|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 1905235443236661652
+    second: Cube.137|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -621180298695474181
+    second: Cube.138|Cube.155Action.002
+  - first:
+      74: 7245991177731318381
+    second: Cube.138|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 5413542736733364814
+    second: Cube.138|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -8155750373286170720
+    second: Cube.138|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -1284208625074166184
+    second: Cube.138|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -900124514409589993
+    second: Cube.138|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -5427465827284063078
+    second: Cube.138|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -4799589604053913907
+    second: Cube.138|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -1138053030110646738
+    second: Cube.138|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -3846036663645464509
+    second: Cube.138|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 5942933181237074182
+    second: Cube.138|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 4669668445970960266
+    second: Cube.138|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -1888940800834197847
+    second: Cube.138|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -4220875626247895833
+    second: Cube.138|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -895568910014360251
+    second: Cube.139|Cube.155Action.002
+  - first:
+      74: -268227688607193621
+    second: Cube.139|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -2017842931352956547
+    second: Cube.139|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -2736788140153680495
+    second: Cube.139|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 5592769167537033733
+    second: Cube.139|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 9184290278583631154
+    second: Cube.139|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 6244610060922024834
+    second: Cube.139|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -680299189331290641
+    second: Cube.139|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -2980400348492017611
+    second: Cube.139|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 7121560645013127293
+    second: Cube.139|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 6566454416710303908
+    second: Cube.139|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 6270265544267152481
+    second: Cube.139|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -1802878515130486529
+    second: Cube.139|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 5067883070612330785
+    second: Cube.139|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -4214448405225246175
+    second: Cube.140|Cube.155Action.002
+  - first:
+      74: -8419813079263971380
+    second: Cube.140|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 7937414917262130925
+    second: Cube.140|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 143360914727057751
+    second: Cube.140|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -9103794675570509411
+    second: Cube.140|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -6618132627247862513
+    second: Cube.140|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 2909443363477147599
+    second: Cube.140|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -6094682181645566381
+    second: Cube.140|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -8090660789845169306
+    second: Cube.140|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 3974538676060062129
+    second: Cube.140|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -6859754235585325950
+    second: Cube.140|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 9029766447571850844
+    second: Cube.140|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 8752128703840849979
+    second: Cube.140|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -2543253956533838942
+    second: Cube.140|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -7235336550819488271
+    second: Cube.141|Cube.155Action.002
+  - first:
+      74: 2101833972679693811
+    second: Cube.141|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -8162834669517689497
+    second: Cube.141|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -1641507189325057764
+    second: Cube.141|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 749238791140169249
+    second: Cube.141|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 2734578143050306804
+    second: Cube.141|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 8434431671732732118
+    second: Cube.141|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 2485605692340577364
+    second: Cube.141|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -7248564640605484851
+    second: Cube.141|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 8768396115396222452
+    second: Cube.141|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 8505366940762901648
+    second: Cube.141|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -7763124872645930196
+    second: Cube.141|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -5208637491290963701
+    second: Cube.141|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 9129338319068709008
+    second: Cube.141|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 8258573587522128335
+    second: Cube.142|Cube.155Action.002
+  - first:
+      74: 7870564912573124949
+    second: Cube.142|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 2898627441497835386
+    second: Cube.142|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 8567553584189512752
+    second: Cube.142|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 2501994773164974407
+    second: Cube.142|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -4712744207598719466
+    second: Cube.142|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 1348521745016308159
+    second: Cube.142|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 2180590990962720952
+    second: Cube.142|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -1754999439382642142
+    second: Cube.142|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 6785764359006086019
+    second: Cube.142|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 7875795690286766116
+    second: Cube.142|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -3122624025733034142
+    second: Cube.142|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -5567821229982782945
+    second: Cube.142|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -1073791549716109716
+    second: Cube.142|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 3001486476959766301
+    second: Cube.143|Cube.155Action.002
+  - first:
+      74: 1052763611386687276
+    second: Cube.143|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 8507063692062287850
+    second: Cube.143|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -7486304270324294752
+    second: Cube.143|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 6127153379210859765
+    second: Cube.143|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -8648435221809100857
+    second: Cube.143|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -3472829696752677948
+    second: Cube.143|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 1607425266253665590
+    second: Cube.143|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -7223792896385839074
+    second: Cube.143|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -7673990277569366771
+    second: Cube.143|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -345417724354241624
+    second: Cube.143|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -8970633916334096943
+    second: Cube.143|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4113502747444687858
+    second: Cube.143|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 93684184976537579
+    second: Cube.143|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -1559325051026038055
+    second: Cube.155|Cube.155Action.002
+  - first:
+      74: -5838552521475961542
+    second: Cube.155|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 3301022725007445635
+    second: Cube.155|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -3373772303484778456
+    second: Cube.155|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -9136418741562141311
+    second: Cube.155|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 5718403064784367607
+    second: Cube.155|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -1187779903580806295
+    second: Cube.155|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 5236028739951786841
+    second: Cube.155|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -481346641268795436
+    second: Cube.155|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -3335481576932631379
+    second: Cube.155|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -7286853023273499455
+    second: Cube.155|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -8882427168601750856
+    second: Cube.155|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -7792539609095102620
+    second: Cube.155|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -7495171219006263358
+    second: Cube.155|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -2349994463518153850
+    second: Cube.159|Cube.155Action.002
+  - first:
+      74: 9083951793503801842
+    second: Cube.159|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 8097150609361917910
+    second: Cube.159|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -2223187483855652606
+    second: Cube.159|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 4595795360072339839
+    second: Cube.159|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -1326142881187783880
+    second: Cube.159|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 8667626859004669940
+    second: Cube.159|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 5296008435266082313
+    second: Cube.159|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -508028886442424787
+    second: Cube.159|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -5629899189617978947
+    second: Cube.159|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -5457220854173595917
+    second: Cube.159|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 4320303079780657986
+    second: Cube.159|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4702821571251300257
+    second: Cube.159|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 8959179644925042943
+    second: Cube.159|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -5825532147153660144
+    second: Cube.164|Cube.155Action.002
+  - first:
+      74: 6879574057069938511
+    second: Cube.164|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 6333996809714098544
+    second: Cube.164|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -3364594799872185897
+    second: Cube.164|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -5033935485326795132
+    second: Cube.164|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -5108451500502432718
+    second: Cube.164|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 3942761032128474248
+    second: Cube.164|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 1528290347872702642
+    second: Cube.164|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -6587684829900114462
+    second: Cube.164|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -8424886378599280819
+    second: Cube.164|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 5435167055359957386
+    second: Cube.164|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 5807730172309165680
+    second: Cube.164|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -2038322304480765520
+    second: Cube.164|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 7216938698731143214
+    second: Cube.164|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 6783519993484961418
+    second: Cube.170|Cube.155Action.002
+  - first:
+      74: -8857958518527834098
+    second: Cube.170|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -7273856148824807152
+    second: Cube.170|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 9046517366623893028
+    second: Cube.170|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -7441100885956057649
+    second: Cube.170|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7248615187526716612
+    second: Cube.170|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 7857122614847027154
+    second: Cube.170|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 8535650026640140312
+    second: Cube.170|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -7391389398033220665
+    second: Cube.170|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 3032235681204460727
+    second: Cube.170|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -8405041438584129424
+    second: Cube.170|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -4321252249955947063
+    second: Cube.170|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 6284901941277905703
+    second: Cube.170|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -6924089517438159128
+    second: Cube.170|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -5631479789037950304
+    second: Cube.179|Cube.155Action.002
+  - first:
+      74: -3427421984470464240
+    second: Cube.179|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -104771088355155050
+    second: Cube.179|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -3920713941699691036
+    second: Cube.179|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 8124112800649488673
+    second: Cube.179|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7506641017553432292
+    second: Cube.179|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -1480037547540084913
+    second: Cube.179|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 2568885828298068751
+    second: Cube.179|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 7093472855653334681
+    second: Cube.179|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -8614035357121252920
+    second: Cube.179|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 4110561390606865778
+    second: Cube.179|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -4824874377375447564
+    second: Cube.179|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -661851419543473493
+    second: Cube.179|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 4694033610230439410
+    second: Cube.179|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -3670261469377788655
+    second: Cube.180|Cube.155Action.002
+  - first:
+      74: -7592732264603797619
+    second: Cube.180|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -1264980604746022331
+    second: Cube.180|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -7228247050983051633
+    second: Cube.180|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -4202002665656393737
+    second: Cube.180|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -1944952590823463065
+    second: Cube.180|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 8799145937197448293
+    second: Cube.180|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -9168577318814419380
+    second: Cube.180|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -336832014234599105
+    second: Cube.180|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 5335506655020325111
+    second: Cube.180|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 6585794046151823080
+    second: Cube.180|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -2562801460961547824
+    second: Cube.180|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 6530592340102156225
+    second: Cube.180|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 5277145643782454513
+    second: Cube.180|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -3721416265488418173
+    second: Cube.185|Cube.155Action.002
+  - first:
+      74: -3233334870989977908
+    second: Cube.185|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -7806568084427210659
+    second: Cube.185|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -1314162868811821528
+    second: Cube.185|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -1787392657309430150
+    second: Cube.185|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 8468017128881166885
+    second: Cube.185|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -2996670846834084885
+    second: Cube.185|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 8189306681676839567
+    second: Cube.185|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -8223367631357941148
+    second: Cube.185|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -6261534407056362431
+    second: Cube.185|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 4773351721127841936
+    second: Cube.185|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 6983942294321556289
+    second: Cube.185|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4966292130151018668
+    second: Cube.185|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 7563917534839078742
+    second: Cube.185|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 8954853203599265807
+    second: Plane.097|Cube.155Action.002
+  - first:
+      74: 1427891789699131031
+    second: Plane.097|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -2586013401233604307
+    second: Plane.097|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -8396280526139499265
+    second: Plane.097|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 7017195487072324424
+    second: Plane.097|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 5993853745562328807
+    second: Plane.097|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 4342198641878907404
+    second: Plane.097|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 8799340782237118724
+    second: Plane.097|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -7373734054222012112
+    second: Plane.097|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 6742346944417556280
+    second: Plane.097|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -8468800648024234038
+    second: Plane.097|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7984686115320736871
+    second: Plane.097|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 5637938100662350206
+    second: Plane.097|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 6593017859589194190
+    second: Plane.097|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 7204046545410116553
+    second: Plane.099|Cube.155Action.002
+  - first:
+      74: -2407252461106552163
+    second: Plane.099|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 7441894476328610572
+    second: Plane.099|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -1317410835604466643
+    second: Plane.099|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -4642966266301986637
+    second: Plane.099|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 4953701946338600262
+    second: Plane.099|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 1291683557584406945
+    second: Plane.099|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 9095533091610099618
+    second: Plane.099|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 4037338094540620758
+    second: Plane.099|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 3743897655352033671
+    second: Plane.099|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -4058172006825516644
+    second: Plane.099|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -9003173059680387510
+    second: Plane.099|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -3140436984291244531
+    second: Plane.099|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 7048115450393308635
+    second: Plane.099|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -2120732680081543352
+    second: Plane.109|Cube.155Action.002
+  - first:
+      74: -3399961933405319694
+    second: Plane.109|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 5883939900056515944
+    second: Plane.109|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 5113300146653499953
+    second: Plane.109|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -1821978231373621533
+    second: Plane.109|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 5013508979700459258
+    second: Plane.109|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -108393482404652217
+    second: Plane.109|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -7973283467260244787
+    second: Plane.109|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 109920721851071894
+    second: Plane.109|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -3628808124325087906
+    second: Plane.109|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 3957890772059731808
+    second: Plane.109|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -7694260027368077597
+    second: Plane.109|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -5152736913552590115
+    second: Plane.109|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -4683470214514848126
+    second: Plane.109|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -7138123720158061840
+    second: Cube.181|Cube.155Action.002
+  - first:
+      74: 210597039012815255
+    second: Cube.181|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 7056366852122763119
+    second: Cube.181|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 4450111376495521557
+    second: Cube.181|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -4184641989367936945
+    second: Cube.181|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -564606480667794761
+    second: Cube.181|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 831992615661988688
+    second: Cube.181|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 3427389634088948979
+    second: Cube.181|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -3761830182993799115
+    second: Cube.181|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 4123705059121171531
+    second: Cube.181|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 8521318383356322627
+    second: Cube.181|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -6349755084040832831
+    second: Cube.181|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -8347550911280544599
+    second: Cube.181|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -8575983740272607971
+    second: Cube.181|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 3849211021281348010
+    second: Alj cement|Cube.155Action.002
+  - first:
+      74: 604215204973420283
+    second: Alj cement|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -511361880281199057
+    second: Alj cement|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 2634272781608382442
+    second: Alj cement|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -6626274424448908804
+    second: Alj cement|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 4166897526319014451
+    second: Alj cement|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -3835184682933206157
+    second: Alj cement|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -2998096897572056830
+    second: Alj cement|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -2960949659925876982
+    second: Alj cement|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -5893806975042530250
+    second: Alj cement|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 9204227490941101038
+    second: Alj cement|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -292049983671548989
+    second: Alj cement|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -2313621907037663885
+    second: Alj cement|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -264612925411390788
+    second: Alj cement|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -6432095115174236256
+    second: Cube.344|Cube.155Action.002
+  - first:
+      74: 7898523169511909916
+    second: Cube.344|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 1818786078849004489
+    second: Cube.344|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -8648666258362337080
+    second: Cube.344|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 7899924943396509180
+    second: Cube.344|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -1140472198116114278
+    second: Cube.344|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 2432534401766043696
+    second: Cube.344|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -9137976950843012205
+    second: Cube.344|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 1803676667210294264
+    second: Cube.344|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 6977581097695675490
+    second: Cube.344|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 3737397441356079302
+    second: Cube.344|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -1851131284860484139
+    second: Cube.344|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -5771254487683698848
+    second: Cube.344|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -888707339161306127
+    second: Cube.344|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 3151595654951646168
+    second: Cube.102|Cube.155Action.002
+  - first:
+      74: -4036115101372459172
+    second: Cube.102|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 7746056107535605167
+    second: Cube.102|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 2690789444892320362
+    second: Cube.102|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 7645562835009343308
+    second: Cube.102|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 6689166045337810379
+    second: Cube.102|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 2639273561162532925
+    second: Cube.102|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 449293278468503126
+    second: Cube.102|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -2095085194219774028
+    second: Cube.102|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -2776160312284806936
+    second: Cube.102|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 6381981343166741629
+    second: Cube.102|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 4490000224661322780
+    second: Cube.102|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4582115759403378244
+    second: Cube.102|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -1554905673943675092
+    second: Cube.102|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 6415485561796560487
+    second: Cube.122|Cube.155Action.002
+  - first:
+      74: 6589681597346920188
+    second: Cube.122|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -1376176343911678472
+    second: Cube.122|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 3949341108214066227
+    second: Cube.122|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -7089980957900747954
+    second: Cube.122|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -1755195570218900078
+    second: Cube.122|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -3238925442744136907
+    second: Cube.122|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 3000077527638050569
+    second: Cube.122|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -6599722847765240347
+    second: Cube.122|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 5627475309766767335
+    second: Cube.122|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 6072035091851673229
+    second: Cube.122|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -7471425306890480044
+    second: Cube.122|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -8412405096852586656
+    second: Cube.122|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 5916106570453050529
+    second: Cube.122|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: 1747926721859094033
+    second: Generator|Cube.155Action.002
+  - first:
+      74: -8138705445878318967
+    second: Generator|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: -3881489160339362068
+    second: Generator|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: -968431925095109868
+    second: Generator|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -1478730199794992477
+    second: Generator|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 7809870029084225557
+    second: Generator|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: 4768640842376599316
+    second: Generator|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 2519284903208436605
+    second: Generator|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: -2834264430439832322
+    second: Generator|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 7806312490726878907
+    second: Generator|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 6070735342664611960
+    second: Generator|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: 6492855211756675854
+    second: Generator|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: 1993069151300593017
+    second: Generator|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 269961811041376836
+    second: Generator|mixamorig_RightToe_End|Take 001|BaseLayer
+  - first:
+      74: -703739704786667952
+    second: Character|Cube.155Action.002
+  - first:
+      74: 1186314437572986082
+    second: Character|mixamorig_HeadTop_End|Take 001|BaseLayer
+  - first:
+      74: 7398962391399027817
+    second: Character|mixamorig_LeftHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 4901171765208482138
+    second: Character|mixamorig_LeftHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: 6106978514048666657
+    second: Character|mixamorig_LeftHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -8045952807468854560
+    second: Character|mixamorig_LeftHandRing4|Take 001|BaseLayer
+  - first:
+      74: -4892765593006886593
+    second: Character|mixamorig_LeftHandThumb4|Take 001|BaseLayer
+  - first:
+      74: 3995891985604721027
+    second: Character|mixamorig_LeftToe_End|Take 001|BaseLayer
+  - first:
+      74: 3655851999626647979
+    second: Character|mixamorig_RightHandIndex4|Take 001|BaseLayer
+  - first:
+      74: 5542180312657512368
+    second: Character|mixamorig_RightHandMiddle4|Take 001|BaseLayer
+  - first:
+      74: -972451675887218444
+    second: Character|mixamorig_RightHandPinky4|Take 001|BaseLayer
+  - first:
+      74: -8720980019602834160
+    second: Character|mixamorig_RightHandRing4|Take 001|BaseLayer
+  - first:
+      74: -2225786623072344597
+    second: Character|mixamorig_RightHandThumb4|Take 001|BaseLayer
+  - first:
+      74: -962382687319806600
+    second: Character|mixamorig_RightToe_End|Take 001|BaseLayer
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: (Fence)Material.069
+    second: {fileID: 2100000, guid: 23d80f1d40011c9448aeb260a2fac05c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: (Fence)Material.070
+    second: {fileID: 2100000, guid: fb6b8bf459cb4614eb2545d42888ca73, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: (Fence)Rail
+    second: {fileID: 2100000, guid: 9339f07e3ef70b144a8ba7ba1cf19ff2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: 2New brick
+    second: {fileID: 2100000, guid: d19c6ad6cfb5e7e4181083bfe5d8f19f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ALJ
+    second: {fileID: 2100000, guid: 246cba3201928df4da4c6ab2ab149612, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ASH GRAY
+    second: {fileID: 2100000, guid: 39f088e91928d324281305ae88c0e7df, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ASH GRAY.002
+    second: {fileID: 2100000, guid: eaf2728377a66b942b75103389bdf8ba, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BROWN
+    second: {fileID: 2100000, guid: abb2131b56aa9604893aa8bdeeabc820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: BROWN.001
+    second: {fileID: 2100000, guid: d897c134a851f1741b4bff48470d2dab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 43be9b1bbb4ca1a4dbf8c894bbaf0d5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.001
+    second: {fileID: 2100000, guid: 341f55a14fd5fbb4f92d91621dfe07a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black.002
+    second: {fileID: 2100000, guid: bf2c703c20938e946982bcc449ddd43c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Branch
+    second: {fileID: 2100000, guid: 3550a8bd7b5852142b4a9ae939d4c729, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brick New
+    second: {fileID: 2100000, guid: 401a79d88d9fbc940bf2733597b63fb8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown nga ambot sa wall
+    second: {fileID: 2100000, guid: 74212d81e52373a44bc4c89af2b67f8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buksu
+    second: {fileID: 2100000, guid: 58f79590a2f0f604c972cf0ff2ef5e06, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Buksu.001
+    second: {fileID: 2100000, guid: c230fa73dbae71b46b283d3d0e19c803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CAS_Grill
+    second: {fileID: 2100000, guid: 31dfedf02e6709e4ebe933f1d0a08f3c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: CSDT lounge window
+    second: {fileID: 2100000, guid: 3ed133ee40fb4cc4291f8f0191a98143, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Cables Material.002
+    second: {fileID: 2100000, guid: bda0914700008904f836176f1ce323ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ch22_body.001
+    second: {fileID: 2100000, guid: 76e1e6e1d3177bf43a6340b511ec37a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Ch22_hair.001
+    second: {fileID: 2100000, guid: 02b11a45d685b114d818a3c050b10690, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default
+    second: {fileID: 2100000, guid: 64aa9a82ad21a474fae62f013d4a65fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default Gray darK_
+    second: {fileID: 2100000, guid: 77ae6281b41853f4285b951cf57ef702, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Default.001
+    second: {fileID: 2100000, guid: 10c8907263c6b084882a69c56b9bdd69, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Door
+    second: {fileID: 2100000, guid: aad509c6af60e8f49a3d3b748f42a8cb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: DoorMEtal
+    second: {fileID: 2100000, guid: 5e718ef9b05b49f48bbc57fa5705bc05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dvere
+    second: {fileID: 2100000, guid: bae64f5be5c0caf429b72056fadb5c19, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: ELEMENTARY WALL WINDOW
+    second: {fileID: 2100000, guid: 88532af2a8fc4e64b8cc84efdd7937ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: EntranceRoad(Gray)
+    second: {fileID: 2100000, guid: 0c02b484dfb6ad742a4c4a926c1f97f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: GRILLS
+    second: {fileID: 2100000, guid: f4efe96a829888446b7a9ba450bdb63d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: 7897833d6e3202642a1ed2af59683484, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.001
+    second: {fileID: 2100000, guid: 000a23cf455f7e3439ef7534192a0a71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.002
+    second: {fileID: 2100000, guid: 9f7420ac7ea2c8d47b561e27d51cbae6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass.003
+    second: {fileID: 2100000, guid: 8c92c314a1b399448a18b248640daabd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glsss
+    second: {fileID: 2100000, guid: 1a6a4ea8d4264ef4d8cf4445837b506f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grabas
+    second: {fileID: 2100000, guid: 171d67826fdd4324bbd1abe5d704f5c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grabas.001
+    second: {fileID: 2100000, guid: 542fdb34d05812d4daae235a5a727775, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Grabas.002
+    second: {fileID: 2100000, guid: c96b46b5f9d7ff04c9068b6e7d15e765, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Gray
+    second: {fileID: 2100000, guid: 78f97894367cd274f8e6f017cb205007, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Green
+    second: {fileID: 2100000, guid: 57e82873577c2a14cbc1f912ce1a1e99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Heart
+    second: {fileID: 2100000, guid: 1e894c58ceaa4d24987e45dd943b0747, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: I
+    second: {fileID: 2100000, guid: 5cdcc9e532eb7a4469d40ba6dee6f119, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Jalosi
+    second: {fileID: 2100000, guid: fcac6708d84306b4eb6533233c750921, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Kov
+    second: {fileID: 2100000, guid: 15b83c127be007e45abb428c00e3be7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METALIC WHITE
+    second: {fileID: 2100000, guid: 99441c8f2a01abf449f5c47ee9f7304a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METALIC WHITE.001
+    second: {fileID: 2100000, guid: 527f16b9f2ce88e47a274246c28468e5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METALLIC
+    second: {fileID: 2100000, guid: 35a843e6835f39d4591bcd6467747e39, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: METALLIC.001
+    second: {fileID: 2100000, guid: a9bb0945109d8e14597f56df0ba1de77, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mat.002
+    second: {fileID: 2100000, guid: 54fd6836f18f4e74aa207d7d4d13274f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material
+    second: {fileID: 2100000, guid: 80152c03b3b4b8e4abf1a4115e1b23c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.001
+    second: {fileID: 2100000, guid: 77532459601bba3489c3c7847207e520, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.002
+    second: {fileID: 2100000, guid: 46d83ea5926dbbd41a0507cab2fe6603, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.003
+    second: {fileID: 2100000, guid: c780d184af37ac44b9e39c7053ea59c6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.004
+    second: {fileID: 2100000, guid: 24aefe0e6d95dc740a9a144f7ff001e0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.005
+    second: {fileID: 2100000, guid: e7ea039b0833a5248ab1dc652571b577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.006
+    second: {fileID: 2100000, guid: 8491fd8e62d0f5943b03c888ffe312c3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.007
+    second: {fileID: 2100000, guid: 065e257e7451e594ab19c7c47099cfd6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.008
+    second: {fileID: 2100000, guid: dde557ca8e1279e4fada8d10a8997aca, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.009
+    second: {fileID: 2100000, guid: a5dc08aeef4779b4e85068b5190c658e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.010
+    second: {fileID: 2100000, guid: 1ac0d10045fd75048a4b1690100595e4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.011
+    second: {fileID: 2100000, guid: 223a3bea3eccacd47a8ead961781f70a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.012
+    second: {fileID: 2100000, guid: 09660fa4ae0506741a553668f5949820, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.013
+    second: {fileID: 2100000, guid: 3ce25a7c60a54374dbb897126b044f92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.014
+    second: {fileID: 2100000, guid: 49ba552645aa2f440892d0173fa45a7b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.015
+    second: {fileID: 2100000, guid: f9d6cce5a2922e64d97f6b63f6068163, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.016
+    second: {fileID: 2100000, guid: 79c8dee1f4686104aa8aea849048cca5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.017
+    second: {fileID: 2100000, guid: 3171efc0ec64bd04da15990b6610b23d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.018
+    second: {fileID: 2100000, guid: d61b6c58a3592704a9d8b5bca0d9ebe3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.019
+    second: {fileID: 2100000, guid: 42ff6dbd56e6a404f8396bb8f36a0a00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.020
+    second: {fileID: 2100000, guid: e9bb4f096fee5ba49b54e80adef76431, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.021
+    second: {fileID: 2100000, guid: bfd9f8202fffd5a4b99514049035e06f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.022
+    second: {fileID: 2100000, guid: 03f53fbdb8329374ab8010a68aa1e68d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.023
+    second: {fileID: 2100000, guid: 960497397a0170844b991ec7a805d54b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.024
+    second: {fileID: 2100000, guid: 2386b5e6f10fb7e4993709b3d6d928ae, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.025
+    second: {fileID: 2100000, guid: 24f5a14d7ea07fb43a2c075b0cd1e53e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.026
+    second: {fileID: 2100000, guid: 8a6221c4e5fc1044298a1b923587244e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.027
+    second: {fileID: 2100000, guid: 01020573a9dc89c4992d517fbe82019a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.028
+    second: {fileID: 2100000, guid: 84ccc50c715e62b47a1918991808ae1e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.029
+    second: {fileID: 2100000, guid: 31794a012dcd82a4d856d7bdae40ee64, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.030
+    second: {fileID: 2100000, guid: a9cc176762e1b144683c611ad9d1ef65, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.031
+    second: {fileID: 2100000, guid: 6dc5db57db253f848a9de810c6aa8e91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.032
+    second: {fileID: 2100000, guid: a611556739a333e469dee50244554eea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.033
+    second: {fileID: 2100000, guid: 4e564043552dc7a4e933ef03833f58da, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.034
+    second: {fileID: 2100000, guid: a032d967b8466604ab65b08087b72cc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.035
+    second: {fileID: 2100000, guid: bf317f55c973fc34786345ee8e556129, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.036
+    second: {fileID: 2100000, guid: a824607ab09a19340a4889dc129df026, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.037
+    second: {fileID: 2100000, guid: 4dbdc02209d04c64fbbc76f92168e795, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.038
+    second: {fileID: 2100000, guid: 1422c5268fc7f644182d04fb30645e4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.039
+    second: {fileID: 2100000, guid: 417c1deb00da3df4a96206392a4dbdcf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.040
+    second: {fileID: 2100000, guid: 1ae9df21f53d7a540b99d7b8bcf62206, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.041
+    second: {fileID: 2100000, guid: e7869bcd3376f6a499847d29dfeab6d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.042
+    second: {fileID: 2100000, guid: d649193ddb68b2e4197f66d48e9ff8a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.044
+    second: {fileID: 2100000, guid: f05eaca577841f74396df9bc8f9c6089, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.045
+    second: {fileID: 2100000, guid: 8182e801313302b42bf199aca3373f97, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.046
+    second: {fileID: 2100000, guid: f3cf3a9d3554d1542995913316d7a48b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.048
+    second: {fileID: 2100000, guid: cc1cf2e403fd788409ce1a15bc3de24e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.049
+    second: {fileID: 2100000, guid: 1f379d702c8c52943a6f3cb710fc3349, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.050
+    second: {fileID: 2100000, guid: a3f6476a1660cdb4d9a3dfd2b61f4e8f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.052
+    second: {fileID: 2100000, guid: 5258359dda6f4d742a5dd603c0c780f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.053
+    second: {fileID: 2100000, guid: 488dea2dbb8de5d43a23173d1da0221d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.054
+    second: {fileID: 2100000, guid: 0df1960e95d5d1949ab9d75e69cc6e5a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.056
+    second: {fileID: 2100000, guid: cb27ba9f7f9ff844ea19883f758a23c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.059
+    second: {fileID: 2100000, guid: 8fbc6e24947db1546894457029a6a4a4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.060
+    second: {fileID: 2100000, guid: f5e540fb002ca3b4dbd7089d2d5ac750, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.061
+    second: {fileID: 2100000, guid: a14961343029e674fb95e8fe74089689, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.062
+    second: {fileID: 2100000, guid: fa29aff4e7edbe3449ffab7726895938, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.063
+    second: {fileID: 2100000, guid: 302d1ef499ecf444d9265199c4d97d6a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.064
+    second: {fileID: 2100000, guid: a390799ab05a36748a2828b4cd1f58db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.066
+    second: {fileID: 2100000, guid: 4afcdaeb055ab5141b7dc4e8c656f577, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.067
+    second: {fileID: 2100000, guid: e2a1a040bcb7fdb4fba3d75f174c9b8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.068
+    second: {fileID: 2100000, guid: 3f8c812fc6c5e6747b778f6267ec1f68, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.069
+    second: {fileID: 2100000, guid: a1b984d0e4203a14e903c349a301f70d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.070
+    second: {fileID: 2100000, guid: ee64a646d06e530469512a961794fb87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.071
+    second: {fileID: 2100000, guid: 8ba13bbd782812548a57f6374321c038, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.072
+    second: {fileID: 2100000, guid: 0b562c2d9740e3f469ccb7cbbc53a72d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.073
+    second: {fileID: 2100000, guid: cf837bc79ae0feb40a70d2a862a21259, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.074
+    second: {fileID: 2100000, guid: a709d7795e4a31645bf2ec42f4260110, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.075
+    second: {fileID: 2100000, guid: 131a4594a38d5ca49b9aa96fc2404e05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.076
+    second: {fileID: 2100000, guid: 8dbbb760ca2a5d049ae921d1e337ae22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.077
+    second: {fileID: 2100000, guid: 347c0c64d1e9c064cb1baf98104ec902, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.078
+    second: {fileID: 2100000, guid: f3b5f099e88b0504eac7816ef9622a2d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.079
+    second: {fileID: 2100000, guid: 34723a6bd4e16f44f835b8d025697e1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.080
+    second: {fileID: 2100000, guid: 61917fb45eaf9674b8a39c4c4cf80b87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.081
+    second: {fileID: 2100000, guid: e8e4e9266c6569740b3b07ab361b2afa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.082
+    second: {fileID: 2100000, guid: 2ea85242328401043bdf3559f421acb9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.083
+    second: {fileID: 2100000, guid: 9b3539dd407161543a0cbcd6ef767186, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.084
+    second: {fileID: 2100000, guid: 658ab98585ecf644d97875294ba099b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.085
+    second: {fileID: 2100000, guid: 5abfd915ba9296c42af7872c99383aa6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.086
+    second: {fileID: 2100000, guid: b2ac29161287ea14a8980641143acd92, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.089
+    second: {fileID: 2100000, guid: ac261bb833689c84a9367234852965bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.090
+    second: {fileID: 2100000, guid: e36a7a4badd78e946ad0d3430dfae3bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.091
+    second: {fileID: 2100000, guid: 96f280460efe0bb409f8533df62fcf45, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.092
+    second: {fileID: 2100000, guid: 45618a97d80a1f3468f245aeb03b4d6d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.093
+    second: {fileID: 2100000, guid: bbbaa725222b52d43b9d840ec2a7f858, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.094
+    second: {fileID: 2100000, guid: 466a112b0c1bf2a46866ec506cd58a32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.095
+    second: {fileID: 2100000, guid: 4b13d9a095ca97140916ab0efa02f0bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.096
+    second: {fileID: 2100000, guid: 02ae06ea038351644a1cbc74c9e74fa4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.097
+    second: {fileID: 2100000, guid: eef979f13c149c444b03c0a38b088a62, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.098
+    second: {fileID: 2100000, guid: a84f473edd1ab89449dc46acc076c5b8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.101
+    second: {fileID: 2100000, guid: e2257694132503f478f39bab3a8fbbdd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.102
+    second: {fileID: 2100000, guid: 6ff6f3c25ab3b0149bc7fdc89d0750d6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.103
+    second: {fileID: 2100000, guid: c20681cd9d893654c8b834dd21efddd2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.104
+    second: {fileID: 2100000, guid: 0a3c70e24b8f429409526f869e0ef97c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.105
+    second: {fileID: 2100000, guid: 9b4fd8b3ea4ca13478a1b1ac1806d737, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.106
+    second: {fileID: 2100000, guid: 4260bfd9fa6ceee43b25a800f2c14863, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.107
+    second: {fileID: 2100000, guid: 9861ae895578c134592dfc8f7f6dba40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.108
+    second: {fileID: 2100000, guid: 6353f877bf785c346b97c731e55b9c00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.109
+    second: {fileID: 2100000, guid: 039cf457ca194b34290ace2665820963, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.110
+    second: {fileID: 2100000, guid: 10910b6cf9d74b844819d3533f20d7f3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.111
+    second: {fileID: 2100000, guid: 13b93bc1e6289504c94ad67310c99ec3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.112
+    second: {fileID: 2100000, guid: 7fccd40a6d7dabd48bc7c5b19a08894c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.113
+    second: {fileID: 2100000, guid: e0d3b8072bdddab429e98e3bc01eaae7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.114
+    second: {fileID: 2100000, guid: 63cad2e3e6486234882540179c2b1312, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.115
+    second: {fileID: 2100000, guid: 042285ff25212624a8a82667e7d92a27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.116
+    second: {fileID: 2100000, guid: 38f52862bd7c2044d989fbaa5117f0ac, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.117
+    second: {fileID: 2100000, guid: 14fb86c7627879e4196da252ac96e5b7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.118
+    second: {fileID: 2100000, guid: badfa12d72be36a4592305abdf1a8187, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.119
+    second: {fileID: 2100000, guid: 7da91db885da04f4085778715b419e58, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.120
+    second: {fileID: 2100000, guid: 66f497dbfe0b4f040a81723aa0e92a9b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.121
+    second: {fileID: 2100000, guid: 8db7e4f6e410ce048931aef7ff6b01ea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.122
+    second: {fileID: 2100000, guid: 2b63ee10db8596e439ddeb6a172cf61e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.123
+    second: {fileID: 2100000, guid: 703bdb61be66ad34ca7015459a787eb5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.124
+    second: {fileID: 2100000, guid: 81e69b2a1706f9445af69f8486f122e9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.125
+    second: {fileID: 2100000, guid: 2cbbe9d7df3fdb34a8faeb84f6f004ce, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.126
+    second: {fileID: 2100000, guid: f46e4e72a4630844195a7c6ca064f495, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.127
+    second: {fileID: 2100000, guid: 7e2bc9af6af210a4b9a0a5797918613b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.128
+    second: {fileID: 2100000, guid: e23c0ea42dd6f2b4d8d217b46cb712f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.129
+    second: {fileID: 2100000, guid: 48c4c8e142164cf4cac9e5c0a070c849, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.130
+    second: {fileID: 2100000, guid: f8c61f5e8769ccb4ba81e036472a5120, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.131
+    second: {fileID: 2100000, guid: 9fec81a53fc6715479b99fe2d904d24f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.132
+    second: {fileID: 2100000, guid: 59c13df82e02f6846ace9ccdb7af0fcc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.133
+    second: {fileID: 2100000, guid: 6e75af8e5035d574385aa190b15d4df1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.134
+    second: {fileID: 2100000, guid: 9060f5b675a83504fb4e413d7e6f0fa5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.135
+    second: {fileID: 2100000, guid: e4cd842d24a6f4745a3c96404fdd3cec, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.136
+    second: {fileID: 2100000, guid: 643120da54b4b494e875873cf7d59f1b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.137
+    second: {fileID: 2100000, guid: 24e60aab76bfc124faaef7552377fba8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.138
+    second: {fileID: 2100000, guid: 422cb5da9e8172449a9344a04175c47b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.139
+    second: {fileID: 2100000, guid: 445c727591e50e64dbc8a8cae7a3a64e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.140
+    second: {fileID: 2100000, guid: 14287bdbb93a1724b97bb98e91ac5182, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.141
+    second: {fileID: 2100000, guid: b1332e63f5e497745b9c33f346b59803, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.142
+    second: {fileID: 2100000, guid: f551c4f09059c4d418bf15d4be0eac86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.143
+    second: {fileID: 2100000, guid: 8a56b0c4184e4964491ff2b859b74377, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.144
+    second: {fileID: 2100000, guid: 976dce1140aa0aa4a89dad131eb1e42f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.145
+    second: {fileID: 2100000, guid: a0f8fb49dc8c7ac42ab550ca53308bb0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.146
+    second: {fileID: 2100000, guid: 600b1860e6a865244987ce29c408c52d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.147
+    second: {fileID: 2100000, guid: b7c400806bedc5340bed69859da180f4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.148
+    second: {fileID: 2100000, guid: f259fa90ce2a0cd48842b1f10519f365, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.149
+    second: {fileID: 2100000, guid: a899f5f7ab9d2f346993979e07e2e5cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.150
+    second: {fileID: 2100000, guid: ea4a840346f62164c9633be08d434881, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.151
+    second: {fileID: 2100000, guid: 9162a3a3122db3841b0e5ddafea19bc8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.152
+    second: {fileID: 2100000, guid: 81cc2878b3b80ce448bdd4b2fb9f4742, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.153
+    second: {fileID: 2100000, guid: 9851b6ec8ea18e3478f2432093d82b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.154
+    second: {fileID: 2100000, guid: 875db50503f46b242a5bc3b7455e84ad, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.155
+    second: {fileID: 2100000, guid: 7fbbd8cdd88a5064388fbf7f8dcc80c4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.156
+    second: {fileID: 2100000, guid: a30db903138956f4497892521f03fa9e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.157
+    second: {fileID: 2100000, guid: 5b9d2d89b5007984fb4d011911063176, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.158
+    second: {fileID: 2100000, guid: 27b534a2a553c784298a59883d3e7d4a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.159
+    second: {fileID: 2100000, guid: e8260e5985cb9734795a457f4e83292e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.160
+    second: {fileID: 2100000, guid: 2f24db0d8ba8cac42b958126c0bb440b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.161
+    second: {fileID: 2100000, guid: 2d6bd942802694547934985cac8d1fd8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.162
+    second: {fileID: 2100000, guid: d010c0d9764b2724698f8e52dc22e86c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.163
+    second: {fileID: 2100000, guid: c3a69a69a7ccd8845b9b1465d1e56859, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.164
+    second: {fileID: 2100000, guid: 55e363ab3bbc5e3469ab75d93a825be7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.165
+    second: {fileID: 2100000, guid: 496198b669251f94a9ff3adbdbeec3d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.166
+    second: {fileID: 2100000, guid: 80d2bac216ae55b40a03dce0eb57b315, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.167
+    second: {fileID: 2100000, guid: 19b9a333ba9f1e947b54f6560676d532, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.168
+    second: {fileID: 2100000, guid: 073c7c9bbcfeb764f89ce71dbd497b0b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.169
+    second: {fileID: 2100000, guid: b2bf529c46d13634fa587843eaff2b4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.170
+    second: {fileID: 2100000, guid: 0ebc636ba4d919d4dae0683c78c6a805, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.171
+    second: {fileID: 2100000, guid: 4e4306a475773494e92a2ca0276272bf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.172
+    second: {fileID: 2100000, guid: 4f77f921300258d48b882d2e6806b1d2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.173
+    second: {fileID: 2100000, guid: 55f1107057d366946b37636fe7c0dfa1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.174
+    second: {fileID: 2100000, guid: af417ae18c95fb04c96b066bfe23aacc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.175
+    second: {fileID: 2100000, guid: c319837412120f44797475930dc778f0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.176
+    second: {fileID: 2100000, guid: 5a55809e43e6f834bb23296a4dae1333, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.178
+    second: {fileID: 2100000, guid: 3ddc67425b2534944830ee7c4d52d4b4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.179
+    second: {fileID: 2100000, guid: 1b6c3ce0ac083854b8ac6db59fefb1a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.181
+    second: {fileID: 2100000, guid: bcc01e85c0ea8fe40bffe0841e3e5f82, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.182
+    second: {fileID: 2100000, guid: 9471f2d1c511cd14ea31e71e8c30517a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.183
+    second: {fileID: 2100000, guid: 98f18b4572eb3ef46a1dbe98ea18c90b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.184
+    second: {fileID: 2100000, guid: d0fb7b523494bee4cb1a8a5905a0331c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.185
+    second: {fileID: 2100000, guid: 76f4b50b99a0dd44494c160b21de8edc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.186
+    second: {fileID: 2100000, guid: a9c0fee012efa4a498c8c3284e43680a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.187
+    second: {fileID: 2100000, guid: 9b6ffd168664c0b4b81366443cec1a89, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.188
+    second: {fileID: 2100000, guid: 8016d18099bd8d74b91787e899b95c71, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.189
+    second: {fileID: 2100000, guid: 0234f41468e445341aa3618ff443e2bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.190
+    second: {fileID: 2100000, guid: 5cb170e9014904446855db013f398b5c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.191
+    second: {fileID: 2100000, guid: 9c8f0c79a5f10f646b10c71846661941, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.192
+    second: {fileID: 2100000, guid: 8d390730c6d506b42ac85e193855e434, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.193
+    second: {fileID: 2100000, guid: b27e787bf3907464eb5f8df83989b0ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.194
+    second: {fileID: 2100000, guid: ccc0919d255493c4eb049c5b52193aea, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.195
+    second: {fileID: 2100000, guid: 4a47f2e50adb7ed44b856bbd5661789f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.196
+    second: {fileID: 2100000, guid: 1d3823be8c6c3d44b9f8e34d41f11646, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.197
+    second: {fileID: 2100000, guid: bbedb761183f27548a90a673f1a699bb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.198
+    second: {fileID: 2100000, guid: 26edd375849d9704bac9484ac86d67c5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.199
+    second: {fileID: 2100000, guid: b80af8a7d73198c44bbad40be5222a88, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.200
+    second: {fileID: 2100000, guid: 48de2aaead51e6348bd6c3aee06c9538, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.201
+    second: {fileID: 2100000, guid: 5c27cbbb0043deb49b47ee0ac69748d1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.203
+    second: {fileID: 2100000, guid: 95f02148932078a498d4e5a800729b2b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.204
+    second: {fileID: 2100000, guid: 3e55971f48e723e4d86ce8d52264bd81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.205
+    second: {fileID: 2100000, guid: 926705619c98bfb4e955d9eb522d0189, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.206
+    second: {fileID: 2100000, guid: 60dd040f59aadb6458efa50b234a18fa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.208
+    second: {fileID: 2100000, guid: 6093330084e74634b8e76f35c7f36926, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.209
+    second: {fileID: 2100000, guid: 139f5072f32668b46b16f5ea5fc46d8a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.210
+    second: {fileID: 2100000, guid: 92386549a0f38214aa6ee7ea11715e27, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.211
+    second: {fileID: 2100000, guid: 9a63226b74e8e8d45b2a601b2a27c59c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.212
+    second: {fileID: 2100000, guid: 04d5bde859afcd84d9b58e68be028230, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.213
+    second: {fileID: 2100000, guid: a22ee7e896b269549be97260050abdbc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.214
+    second: {fileID: 2100000, guid: d498270d378c25842a4a85666d958ca6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.215
+    second: {fileID: 2100000, guid: f812b57f4a445c445a18de99913055bc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.216
+    second: {fileID: 2100000, guid: 51d7e6bb34c6ea540a238213c5c026bd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.217
+    second: {fileID: 2100000, guid: a6e0a9db4e73fd44bad8a4375b8112d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.218
+    second: {fileID: 2100000, guid: ceee37431b7f77f40b21847dd93530c0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.219
+    second: {fileID: 2100000, guid: d437185d96f15b947a9cd612781ca292, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.220
+    second: {fileID: 2100000, guid: 79c24b9a5d78e934ead2cdb10e3fe284, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.221
+    second: {fileID: 2100000, guid: e43171ec10236c34c9e344388d2459d0, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.222
+    second: {fileID: 2100000, guid: 6b095fe143072e549a7f42ae172c7aaa, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.223
+    second: {fileID: 2100000, guid: 135cd7006ab8f4b4c9063b553fdaa830, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.224
+    second: {fileID: 2100000, guid: eb8c55a17c9e2ea49824e2afa0d71626, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.225
+    second: {fileID: 2100000, guid: 00d8fcd15a24aac41bfebeff0c222f00, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.226
+    second: {fileID: 2100000, guid: 13687208ee96adb4c8e51b1260974f81, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.227
+    second: {fileID: 2100000, guid: 1c20d55e63fd3824bb1d398af9038709, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.228
+    second: {fileID: 2100000, guid: 5d1205a640d54e84d9a3db68bfe6fdf1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.230
+    second: {fileID: 2100000, guid: 31814c743e3d0ca47aea4b414585d40b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.231
+    second: {fileID: 2100000, guid: 8ad322ecae4d54e4db213bb996acf2a6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.232
+    second: {fileID: 2100000, guid: 4b6679d5b659fc94bb03407d49931203, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.233
+    second: {fileID: 2100000, guid: cce0569e90c23aa4dbaeee35e0018c6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.234
+    second: {fileID: 2100000, guid: 8393a0da180d99c4aada30b0364568fd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.235
+    second: {fileID: 2100000, guid: 0d910372aa5a25444aa641aba3c7caf8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.236
+    second: {fileID: 2100000, guid: f5bd0f8a519b6fd439c20b7ac84ab0a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.239
+    second: {fileID: 2100000, guid: 95c8565e4e40d454e9d425311c6c9117, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.293
+    second: {fileID: 2100000, guid: 67d9dc7508201db47b61d62529047b90, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.295
+    second: {fileID: 2100000, guid: 241f35a2fcad793439fdc868d66d88b1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.296
+    second: {fileID: 2100000, guid: 1a65e5e42206b5e4abfb5802a18bdacb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.297
+    second: {fileID: 2100000, guid: ca239ebc2520f4843817cea941dd7dc3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Material.298
+    second: {fileID: 2100000, guid: e9147876611b1cd468d15848c413d161, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal
+    second: {fileID: 2100000, guid: 78c4166d7a686ee42b5185085dcca89e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Metal.001
+    second: {fileID: 2100000, guid: b68fd75e1ffc5ae448c45d9e8bef9231, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Mirror
+    second: {fileID: 2100000, guid: 055f96a6acc137a44998231c22537dcd, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: No Name
+    second: {fileID: 2100000, guid: 5a2fa78ae69c92348916877a501233b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OSS DOOR
+    second: {fileID: 2100000, guid: 4354fba8d765e0a41998f67c1ab60988, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: OssWall
+    second: {fileID: 2100000, guid: 24dac6b234c998445843ccc0ae9058af, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Rim
+    second: {fileID: 2100000, guid: cc0292162476a254e8ca46e414f65fa7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Road Exit
+    second: {fileID: 2100000, guid: 60ecd92be12b2b04eb4a6a787e34ba40, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof low
+    second: {fileID: 2100000, guid: 19f1be80d67f9e847870868e0344882f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Roof_material
+    second: {fileID: 2100000, guid: 4fd81e528ee6be54faa617ffc0105eb3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SM_DoorRollUp_01T_material
+    second: {fileID: 2100000, guid: f19ec735b66560042a0bd64ba58372cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Silver metal
+    second: {fileID: 2100000, guid: dbd650e6450bd264b837eb66ecf26030, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stair
+    second: {fileID: 2100000, guid: 3f2d7610733e26a40a1dcaf6cfd89838, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Stair metal
+    second: {fileID: 2100000, guid: f0ab703ef75577a47b3664d813de23ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WALL
+    second: {fileID: 2100000, guid: ffdf9476c987e694fae57de739dc7c4e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WALL.001
+    second: {fileID: 2100000, guid: 871c92dfbf313924183255a2c67383b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: WHITE
+    second: {fileID: 2100000, guid: d25b968bb59654a43bb3bdf4cd915f22, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall base
+    second: {fileID: 2100000, guid: 3b2ba6378e50e5c46825297c8d756c7d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wall base.001
+    second: {fileID: 2100000, guid: 915004f050c5a6244b51798216461cb7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Wood table
+    second: {fileID: 2100000, guid: 05c11e5e1643122469df7cc66dd58313, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: amets
+    second: {fileID: 2100000, guid: 733b55523be231342b8440430511a1b3, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: atop
+    second: {fileID: 2100000, guid: 4bc7df43193f24e48843629b93b613cc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: brown_
+    second: {fileID: 2100000, guid: d5d32856d4f0cfd40bb8f88a90139c05, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cas red
+    second: {fileID: 2100000, guid: 77ef3c3ecdea17c4d88f689fd999011b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cas wall
+    second: {fileID: 2100000, guid: 2005ccc7e6893754c879ec6268bad57d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement
+    second: {fileID: 2100000, guid: b07d8dcadcee39b488198b3e40ed7eee, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement.001
+    second: {fileID: 2100000, guid: 36b56f1f7de332341ad27fee3c8d08b2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement.002
+    second: {fileID: 2100000, guid: 147d88d5e9d10d24e966c51ea94f72d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cement.003
+    second: {fileID: 2100000, guid: 2a70fca5cfe37e744abafa92993f1207, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cemnt
+    second: {fileID: 2100000, guid: c804087d961f27845bf4de510469603e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cemnt.001
+    second: {fileID: 2100000, guid: 0fc1ff4da1fc82246b7eee0ac6d8a64b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: cemnt.002
+    second: {fileID: 2100000, guid: 1fa1022247ad986438044ff19c6d6b60, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: dark brown
+    second: {fileID: 2100000, guid: 0e4e130a867aa1f4082bc40eb888c2ab, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fence
+    second: {fileID: 2100000, guid: 53380b2903417af4a9409ed4803403f9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fin
+    second: {fileID: 2100000, guid: 4941a2da76db0ce4fb00603686f77d1d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: fin window
+    second: {fileID: 2100000, guid: 1535215834db55345966f8fee8c4e556, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: finance window
+    second: {fileID: 2100000, guid: 4d0637d1f67280340bd4ecf1c9f3eec1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grabas W
+    second: {fileID: 2100000, guid: 4e10f46316bb3f348a260b7b78c9fdbb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: gray
+    second: {fileID: 2100000, guid: 0ab72fee57cdc464db57fd4de8be099d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green
+    second: {fileID: 2100000, guid: 23a2a11b00a57174cbdd314999d46c91, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green finance window
+    second: {fileID: 2100000, guid: 06dc6859712defb408220cd319316de6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: green roof
+    second: {fileID: 2100000, guid: 32ebfb72e8c04a547809aafc902d7334, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grey
+    second: {fileID: 2100000, guid: ae4b5a24a0f8e1b4d975bccb4fdfb658, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: grill
+    second: {fileID: 2100000, guid: 042b17c9fa0fa9f47ad545fee4163c8b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: jalo
+    second: {fileID: 2100000, guid: 477c3d8e803e024419a743b8b52e700e, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: kURAL
+    second: {fileID: 2100000, guid: d9c89ab8117fe5749a4544cb74efdb99, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mETAL lETTER
+    second: {fileID: 2100000, guid: 89e8b615fa3167446b1ca38e17eb8f21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal
+    second: {fileID: 2100000, guid: b22d4b81f273b06418d88bceb71d10b5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.001
+    second: {fileID: 2100000, guid: 88ce15a7c07c0ba47a450303502d4cd9, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.002
+    second: {fileID: 2100000, guid: 75705a78f9a5be84d889b7cb4b4492c1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.003
+    second: {fileID: 2100000, guid: 574e301b52b4fd24da012fe792a76665, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.004
+    second: {fileID: 2100000, guid: 6a65a25a9a5e7294584e9d0baff1926a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.005
+    second: {fileID: 2100000, guid: 3f83c1ceafe9da64792000b92a27087b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.006
+    second: {fileID: 2100000, guid: 5bf976079ac0a6c448e7eee77e833ba6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.007
+    second: {fileID: 2100000, guid: d7ff07361f40ba54494966353d80e32c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: metal.008
+    second: {fileID: 2100000, guid: bdb463ed806f8ba40a916f158bf812d7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mink
+    second: {fileID: 2100000, guid: 9a633e5636a64b14dac9c6138a80ab32, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror
+    second: {fileID: 2100000, guid: eb4ed9d2c42a9bd4dbc3911f5c134a86, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: mirror glass
+    second: {fileID: 2100000, guid: f82a5960cdd90b443be358296cdfd6d4, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pic
+    second: {fileID: 2100000, guid: c6780eacfc62a9c42b4b9be4c1f40675, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: pipe
+    second: {fileID: 2100000, guid: ff66b3c6524862d479fec2f2de69ca28, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: round
+    second: {fileID: 2100000, guid: d8a53151d44877740bccbc4e50f6967b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: singke jalosi
+    second: {fileID: 2100000, guid: bb7671df8b58ee04a8ca3da2e5df1db7, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: skyblue
+    second: {fileID: 2100000, guid: 522474d5ac561984ebcb336aeeb8067b, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: tile
+    second: {fileID: 2100000, guid: 2326e60a1580c0042a41e9f9f08ee0a1, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wall image
+    second: {fileID: 2100000, guid: f9edb066cd6fb574481764f3eb5abf18, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_1
+    second: {fileID: 2100000, guid: 9407b47a227feff4d85975c7c0414a6f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_10
+    second: {fileID: 2100000, guid: d4947c4595f16354886523f0d66db1d8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_11
+    second: {fileID: 2100000, guid: e0210d1d427787c48b5e1f2425c9bddc, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_12
+    second: {fileID: 2100000, guid: bf7610fc13efc9340949cb51814e4e3f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_2
+    second: {fileID: 2100000, guid: 9599245ddac629f4987ebb0463ca995c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_3
+    second: {fileID: 2100000, guid: 823ca6dfa3030cd4eab89711885b349f, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_4
+    second: {fileID: 2100000, guid: 462b153d333390046b425e8164c454db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_5
+    second: {fileID: 2100000, guid: d0dedb7c6956a694c92f32b319eedef5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_6
+    second: {fileID: 2100000, guid: b0ef3e34d2030c947952399f5f72477a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_7
+    second: {fileID: 2100000, guid: 31ee2000a55872e4ebebfb052d3806f6, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_8
+    second: {fileID: 2100000, guid: e84d6491aff16374d96d66e4e602c9cf, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_9
+    second: {fileID: 2100000, guid: 66580482fe7dded438b96ad5373d14a8, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_Brellee
+    second: {fileID: 2100000, guid: aba064b6325fac441bb838a0c416603c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_Brett
+    second: {fileID: 2100000, guid: 51c88874d2f0fb54fa25c05a8c681d75, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_Hermo
+    second: {fileID: 2100000, guid: 2b77622480d9f6b429216d7f65aa3d10, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_Manzo
+    second: {fileID: 2100000, guid: 48ec2b6f79a14124aa644e9f08100680, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: wallpic_kian
+    second: {fileID: 2100000, guid: 3b5126a0d679a424da842f5db226de7c, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: white sa red wall
+    second: {fileID: 2100000, guid: 1a77a508560858d47a620b2e3706b97d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: winodw curve
+    second: {fileID: 2100000, guid: 4559a17f5b9444148a607a1aaea6d47d, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: yelloww
+    second: {fileID: 2100000, guid: b949f65fcd5ac0d4f8e3f43ad3c7d0e3, type: 2}
+  materials:
+    materialImportMode: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    removeConstantScaleCurves: 1
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 0
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.3
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    sortHierarchyByName: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    nodeNameCollisionStrategy: 1
+    fileIdsGeneration: 2
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    keepQuads: 0
+    weldVertices: 1
+    bakeAxisConversion: 0
+    preserveHierarchy: 0
+    skinWeightsMode: 0
+    maxBonesPerVertex: 4
+    minBoneWeight: 0.001
+    optimizeBones: 1
+    meshOptimizationFlags: -1
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVMarginMethod: 1
+    secondaryUVMinLightmapResolution: 40
+    secondaryUVMinObjectScale: 1
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  referencedClips: []
+  importAnimation: 1
+  humanDescription:
+    serializedVersion: 3
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    globalScale: 0.3
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  autoGenerateAvatarMappingIfUnspecified: 1
+  animationType: 2
+  humanoidOversampling: 1
+  avatarSetup: 0
+  addHumanoidExtraRootOnlyWhenUsingAvatar: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
